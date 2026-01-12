@@ -2,7 +2,7 @@ export default function Video() {
   return (
     <div
       className="
-        h-[160vh] md:h-screen w-screen
+        h-[200vh] md:h-screen w-screen
         flex justify-center items-center
         px-6 py-10
         bg-gradient-to-br
